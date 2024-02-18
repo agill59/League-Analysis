@@ -1,0 +1,8 @@
+---
+title: "Analyzing League of Legend Games"
+author: "Amar Gill"
+date: Sys.Date()
+format: html
+bibliography: references.bib
+editor: visual
+---
