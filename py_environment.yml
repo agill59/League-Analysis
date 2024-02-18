@@ -1,0 +1,8 @@
+name: league_analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab=4.1.1
+  - pandas=2.2
+  - python=3.11
