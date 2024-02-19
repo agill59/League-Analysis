@@ -6,3 +6,6 @@ dependencies:
   - jupyterlab=4.1.1
   - pandas=2.2
   - python=3.11
+  - r-base=4.1.3
+  - conda-forge::r-irkernel=1.3.2
+prefix: C:\Users\otter\miniconda3\envs\league_analysis
